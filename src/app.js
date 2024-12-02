@@ -20,7 +20,7 @@ import userRouter from '../src/routes/user.routes.js'
 
 
 
-//routes declaration
+//routes declarations
 app.use("/users",userRouter)
 
 export { app }
